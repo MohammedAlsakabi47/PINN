@@ -1,2 +1,2 @@
-![Description of GIF](result_GIF.gif)
+![Description of GIF](results_GIF.gif)
 
