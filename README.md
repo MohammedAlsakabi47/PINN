@@ -10,3 +10,4 @@ This repository presents a simulation of a Doppler effect caused by a two-blade 
 Under `Dataset`, the input signal is found in `input_waves.mat`, the instantaneous spectrum is found in `forier_response.mat`, and the ground truth frequency is found in `frequency_progression.mat`.
 
 ## How to Run
+To preprocess the dataset and train a physics-informed MLP, use `PINN_training.py` and `PINNs.m` for result visualization.
